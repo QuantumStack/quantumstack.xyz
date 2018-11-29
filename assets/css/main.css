@@ -1611,6 +1611,7 @@ ul.icons li {
 form {
   margin: 0 0 2em 0;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 form > :last-child {
   margin-bottom: 0;
